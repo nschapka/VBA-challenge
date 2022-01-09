@@ -16,6 +16,7 @@ When we have read all the necessary data from the spreadsheet, we present it in 
 ### 2017
 
 2017 was a good year for most of the candidate stocks.
+
 ![vba_challenge_2017](https://user-images.githubusercontent.com/38693762/148699222-a4cca8b8-89a6-4576-8871-43fdceccc4d1.PNG)
 
 In particular, it would have been a very good idea to have invested in DQ or SEDG.
@@ -23,6 +24,7 @@ In particular, it would have been a very good idea to have invested in DQ or SED
 ### 2018
 
 Oh no! Looks like someone accidentally turned the big lever on the NYSE from "line go up" to "line go down"!
+
 ![vba_challenge_2018](https://user-images.githubusercontent.com/38693762/148699242-7d4e2ec8-6955-46c8-8452-cb19ff45017f.PNG)
 
 The only two stocks with positive returns in both years are RUN and ENPH.  Within the limited scope of this analysis, RUN and ENPH seem to be the most resilient to market fluctuations, and thus the best out of the 12 candidates for Steve's parents to invest in.
